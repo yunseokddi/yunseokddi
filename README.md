@@ -2,8 +2,9 @@
 
   [![yunseokddi's github stats](https://github-readme-stats.vercel.app/api?username=yunseokddi)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align=center>
 [![](https://komarev.com/ghpvc/?username=yunseokddi)]
+
+<div align=center>
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ys-cs17.tistory.com/)](https://ys-cs17.tistory.com/)
 [![instagram](http://img.shields.io/badge/Instagram-FFFFFF?style=flat-square&logo=Instagram&link=https://www.instagram.com/ys_cs17/)](https://www.instagram.com/ys_cs17/)
 
