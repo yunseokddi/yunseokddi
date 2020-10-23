@@ -10,7 +10,17 @@
 - Attending in Computer Science Engineering from Inha University, Incheon, South Korea, in 2017.
 - I am currently working at GeoSoft in 2020.2. (Alternative Military Service)  
 
+<div align=center>
+    
 [![yunseokddi's github stats](https://github-readme-stats.vercel.app/api?username=yunseokddi)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+<div align=center>
+    
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=oys5339)](https://solved.ac/oys5339)
+
+</div>
 
 ### 🌱 Interest
 - **Image Recognition using Deep Learning**
@@ -20,12 +30,6 @@
 - **Image Processing using Deep Learning**
     - Super Resolution
     - Style Transfer
-
-<div align=center>
-    
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=oys5339)](https://solved.ac/oys5339)
-
-</div>
 
 ### 👯 Hobby
 - Shoes collecting
