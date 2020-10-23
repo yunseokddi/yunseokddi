@@ -1,4 +1,4 @@
-### YUNSEOK OH
+### YUNSEOK OH; <img src="https://github.com/yunseokddi/yunseokddi/blob/master/sans.gif" width="30px">
 
 <div align=center>
 
@@ -10,17 +10,7 @@
 - Attending in Computer Science Engineering from Inha University, Incheon, South Korea, in 2017.
 - I am currently working at GeoSoft in 2020.2. (Alternative Military Service)  
 
-<div align=center>
-    
 [![yunseokddi's github stats](https://github-readme-stats.vercel.app/api?username=yunseokddi)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-<div align=center>
-    
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=oys5339)](https://solved.ac/oys5339)
-
-</div>
 
 ### 🌱 Interest
 - **Image Recognition using Deep Learning**
@@ -31,9 +21,11 @@
     - Super Resolution
     - Style Transfer
 
+
 ### 👯 Hobby
-- Shoes collecting
-- Kendo (Certification 2)
+- **Shoes collecting**
+- **Kendo (Certification 2)**
+- **Cocktail Making**
 
 
 
