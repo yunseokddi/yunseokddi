@@ -7,10 +7,25 @@
 </div>
 
 ### 🔭 Career
-- Attending in Computer Science Engineering from Inha University, Incheon, Korea, in 2017.
-- I am currently working at Geo Soft in 2020.2. (Military Service Substitution)  
+- Attending in Computer Science Engineering from Inha University, Incheon, South Korea, in 2017.
+- I am currently working at GeoSoft in 2020.2. (Alternative Military Service)  
 
 [![yunseokddi's github stats](https://github-readme-stats.vercel.app/api?username=yunseokddi)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🌱 Interest
+- **Image Recognition using Deep Learning**
+    - Classification
+    - Object Detection
+    - Segmentation
+- **Image Processing using Deep Learning**
+    - Super Resolution
+    - Style Transfer
+
+
+### 👯 Hobby
+- Shoes collecting
+- Kendo (Certification 2)
+
 
 
 <div align=center>
