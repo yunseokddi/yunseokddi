@@ -8,6 +8,7 @@
 
 ### 🔭 Career
 - Attending in Computer Science Engineering from Inha University, Incheon, Korea, in 2017.
+- I am currently working at Geo Soft in 2020.2. (Military Service Substitution)  
 
 [![yunseokddi's github stats](https://github-readme-stats.vercel.app/api?username=yunseokddi)](https://github.com/anuraghazra/github-readme-stats)
 
