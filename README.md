@@ -21,6 +21,11 @@
     - Super Resolution
     - Style Transfer
 
+<div align=center>
+    
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=oys5339)](https://solved.ac/oys5339)
+
+</div>
 
 ### 👯 Hobby
 - Shoes collecting
