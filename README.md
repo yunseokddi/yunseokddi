@@ -1,7 +1,12 @@
 ### Hi there 👋
 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ys-cs17.tistory.com/)](https://ys-cs17.tistory.com/)
+
 <!--
 **yunseokddi/yunseokddi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
 
 Here are some ideas to get you started:
 
