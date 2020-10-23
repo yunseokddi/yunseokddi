@@ -1,4 +1,4 @@
-### YUNSEOK OH; <img src="https://github.com/yunseokddi/yunseokddi/blob/master/sans.gif" width="30px">
+### YUNSEOK OH <img src="https://github.com/yunseokddi/yunseokddi/sans.gif" width="30px">
 
 <div align=center>
 
