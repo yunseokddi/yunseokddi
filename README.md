@@ -1,8 +1,13 @@
 ### Hi there 👋
 
-  [![yunseokddi's github stats](https://github-readme-stats.vercel.app/api?username=yunseokddi)](https://github.com/anuraghazra/github-readme-stats)
+<div align=center>
 
-[![](https://komarev.com/ghpvc/?username=yunseokddi)]
+![](https://komarev.com/ghpvc/?username=yunseokddi)
+
+</div>
+
+[![yunseokddi's github stats](https://github-readme-stats.vercel.app/api?username=yunseokddi)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <div align=center>
   
