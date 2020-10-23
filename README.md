@@ -6,6 +6,9 @@
 
 </div>
 
+### 🔭 Career
+- Attending in Computer Science Engineering from Inha University, Incheon, Korea, in 2017.
+
 [![yunseokddi's github stats](https://github-readme-stats.vercel.app/api?username=yunseokddi)](https://github.com/anuraghazra/github-readme-stats)
 
 
