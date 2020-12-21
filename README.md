@@ -8,7 +8,7 @@
 
 ### 🔭 Career
 - Attending in Computer Science Engineering from **Inha University**, Incheon, South Korea, in 2017.
-- I am currently working at **GeoSoft** in 2020.2. (Alternative Military Service)  
+- I am currently working at **FineVT**. (Alternative Military Service)  
 
 [![yunseokddi's github stats](https://github-readme-stats.vercel.app/api?username=yunseokddi)](https://github.com/anuraghazra/github-readme-stats)
 
