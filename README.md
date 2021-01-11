@@ -12,6 +12,17 @@
 
 [![yunseokddi's github stats](https://github-readme-stats.vercel.app/api?username=yunseokddi)](https://github.com/anuraghazra/github-readme-stats)
 
+### :ghost: Main Language and Skills
+- **Language
+    - python
+    - c++
+    - c#
+- **Skills**
+    - pytorch
+    - LibTorch
+    - opencv
+    - etc...
+
 ### 🌱 Interest
 - **Image Recognition using Deep Learning**
     - Classification
