@@ -13,7 +13,7 @@
 [![yunseokddi's github stats](https://github-readme-stats.vercel.app/api?username=yunseokddi)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :ghost: Main Language and Skills
-- **Language
+- **Language**
     - python
     - c++
     - c#
