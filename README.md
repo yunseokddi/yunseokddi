@@ -8,7 +8,6 @@
 
 ### 🔭 Career
 - Attending in Computer Science Engineering from **Inha University**, Incheon, South Korea, in 2017.
-- I am currently working at **FineVT**. (Alternative Military Service)  
 
 [![yunseokddi's github stats](https://github-readme-stats.vercel.app/api?username=yunseokddi)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -16,21 +15,15 @@
 - **Language**
     - python
     - c++
-    - c#
 - **Skills**
     - pytorch
     - LibTorch
     - opencv
-    - etc...
 
 ### 🌱 Interest
 - **Image Recognition using Deep Learning**
-    - Classification
+    - Anomaly detection
     - Object Detection
-    - Segmentation
-- **Image Processing using Deep Learning**
-    - Super Resolution
-    - Style Transfer
 
 
 ### 👯 Hobby
@@ -43,7 +36,7 @@
 <div align=center>
   
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ys-cs17.tistory.com/)](https://ys-cs17.tistory.com/)
-[![instagram](http://img.shields.io/badge/Instagram-FFFFFF?style=flat-square&logo=Instagram&link=https://www.instagram.com/ys_cs17/)](https://www.instagram.com/ys_cs17/)
+[![instagram](http://img.shields.io/badge/Instagram-FFFFFF?style=flat-square&logo=Instagram&link=https://www.instagram.com/snkrs.researcher/)](https://www.instagram.com/ys_cs17/)
 
 </div>
   
