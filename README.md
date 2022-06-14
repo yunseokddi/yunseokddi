@@ -28,7 +28,6 @@
 ### 👯 Hobby
 - **Shoes collecting**
 - **Kendo (Certification 2)**
-- **Cocktail Making**
 
 
 
