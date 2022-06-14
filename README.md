@@ -1,4 +1,4 @@
-### YUNSEOK OH <img src="https://github.com/yunseokddi/yunseokddi/blob/main/sans.gif" width="30px">
+### YUNSEOK OH <img src="https://github.com/yunseokddi/yunseokddi/blob/main/sans.gif" width="30px" height="30px">
 
 <div align=center>
 
@@ -23,7 +23,6 @@
 ### 🌱 Interest
 - **Image Recognition using Deep Learning**
     - Anomaly detection
-    - Object Detection
 
 
 ### 👯 Hobby
