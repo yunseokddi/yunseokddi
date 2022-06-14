@@ -35,7 +35,7 @@
 <div align=center>
   
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ys-cs17.tistory.com/)](https://ys-cs17.tistory.com/)
-[![instagram](http://img.shields.io/badge/Instagram-FFFFFF?style=flat-square&logo=Instagram&link=https://www.instagram.com/snkrs.researcher/)](https://www.instagram.com/ys_cs17/)
+[![instagram](http://img.shields.io/badge/Instagram-FFFFFF?style=flat-square&logo=Instagram&link=https://www.instagram.com/snkrs.researcher/)](https://www.instagram.com/snkrs_researcher/)
 
 </div>
   
