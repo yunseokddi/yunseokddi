@@ -5,12 +5,11 @@
 ![](https://komarev.com/ghpvc/?username=yunseokddi&color=brightgreen)
 
 </div>
-
+[![yunseokddi's github stats](https://github-readme-stats.vercel.app/api?username=yunseokddi)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yunseokddi&layout=compact)](https://github.com/yunseokddi/github-readme-stats)
 ### 🔭 Career
 - Attending in Computer Science Engineering from **Inha University**, Incheon, South Korea, in 2017.
 
-[![yunseokddi's github stats](https://github-readme-stats.vercel.app/api?username=yunseokddi)](https://github.com/anuraghazra/github-readme-stats)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yunseokddi&layout=compact)](https://github.com/yunseokddi/github-readme-stats)
 ### :ghost: Main Language and Skills
 - **Language**
     - python
