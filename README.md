@@ -10,25 +10,22 @@
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yunseokddi&layout=compact)](https://github.com/yunseokddi/github-readme-stats)
 
 ### 🔭 Career
-- Attending in Computer Science Engineering from **Inha University**, Incheon, South Korea, in 2017.
+- Graduated in Computer Science Engineering from **Inha University**, Incheon, South Korea, in 2023.
+- Attending in **Big Data Lab** from **Inha University's Master course**, Incheon, South Korea, from 2023.
 
 ### :ghost: Main Language and Skills
-- **Language**
-    - python
-    - c++
-- **Skills**
-    - pytorch
-    - LibTorch
-    - opencv
+- **python**
+- **pytorch**
 
 ### 🌱 Interest
-- **Image Recognition using Deep Learning**
-    - Anomaly detection
+- **Continual learning**
+- **Anomaly detection**
 
 
 ### 👯 Hobby
 - **Shoes collecting**
-- **Kendo (Certification 2)**
+- **Snowboarding**
+- **Kendo**
 
 
 
