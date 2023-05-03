@@ -19,7 +19,7 @@
 
 ### 🌱 Interest
 - **Continual learning**
-- **Anomaly detection**
+- **OOD detection**
 
 
 ### 👯 Hobby
