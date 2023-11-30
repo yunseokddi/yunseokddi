@@ -13,25 +13,20 @@
 - Graduated in Computer Science Engineering from **Inha University**, Incheon, South Korea, in 2023.
 - Attending in **Big Data Lab** from **Inha University's Master course**, Incheon, South Korea, from 2023.
 
-### :ghost: Main Language and Skills
-- **python**
-- **pytorch**
-
 ### 🌱 Interest
-- **Continual learning**
-- **OOD detection**
+- **Continual Learning**
+- **Novelty Category Discovery**
+- **OOD Detection**
 
 
 ### 👯 Hobby
-- **Shoes collecting**
 - **Snowboarding**
-- **Kendo**
+- **Shoes collecting**
 
 
 
 <div align=center>
-  
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ys-cs17.tistory.com/)](https://ys-cs17.tistory.com/)
+
 [![instagram](http://img.shields.io/badge/Instagram-FFFFFF?style=flat-square&logo=Instagram&link=https://www.instagram.com/snkrs.researcher/)](https://www.instagram.com/snkrs.researcher/)
 
 </div>
