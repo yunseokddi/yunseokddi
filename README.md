@@ -28,7 +28,7 @@
 <div align=center>
 
 [![instagram](http://img.shields.io/badge/Instagram-FFFFFF?style=flat-square&logo=Instagram&link=https://www.instagram.com/snkrs.researcher/)](https://www.instagram.com/snkrs.researcher/)
-
+[![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logo=Instagram&link=https://www.linkedin.com/in/yunseok-oh-0180321b3/)](https://www.linkedin.com/in/yunseok-oh-0180321b3/)
 </div>
   
   
