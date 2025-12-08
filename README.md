@@ -5,8 +5,6 @@
 ![](https://komarev.com/ghpvc/?username=yunseokddi&color=brightgreen)
 
 </div>
-
-
 ### 🔭 Career
 - Graduated in Computer Science Engineering from **Inha University**, Incheon, South Korea, in 2023.
 - Graduated in **Big Data Lab** from **Inha University's Computer Science Engineering Master course**, Incheon, South Korea, in 2025.
