@@ -5,9 +5,11 @@
 ![](https://komarev.com/ghpvc/?username=yunseokddi&color=brightgreen)
 
 </div>
+
 ### 🔭 Career
 - Graduated in Computer Science Engineering from **Inha University**, Incheon, South Korea, in 2023.
 - Graduated in **Big Data Lab** from **Inha University's Computer Science Engineering Master course**, Incheon, South Korea, in 2025.
+- Currently serving as the CTO of [Autolabs Inc.](https://atlabs.kr/) since 2025.
 
 ### 🌱 Interest
 - **Continual Learning**
@@ -15,15 +17,8 @@
 - **OOD Detection**
 
 
-### 👯 Hobby
-- **Snowboarding**
-- **Shoes collecting**
-
-
-
 <div align=center>
 
-[![instagram](http://img.shields.io/badge/Instagram-FFFFFF?style=flat-square&logo=Instagram&link=https://www.instagram.com/snkrs.researcher/)](https://www.instagram.com/snkrs.researcher/)
 [![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logo=Instagram&link=https://www.linkedin.com/in/yunseok-oh-0180321b3/)](https://www.linkedin.com/in/yunseok-oh-0180321b3/)
 </div>
   
