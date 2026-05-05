@@ -3,7 +3,7 @@
 ### 🔭 Career
 - Graduated in Computer Science Engineering from **Inha University**, Incheon, South Korea, in 2023.
 - Graduated in **Big Data Lab** from **Inha University's Computer Science Engineering Master course**, Incheon, South Korea, in 2025.
-- Currently serving as the **CTO** of **[AutoLabs Inc.](https://atlabs.kr/)** since 2025.
+- Currently serving as the **CAIO** of **[AutoLabs Inc.](https://atlabs.kr/)** since 2025.
 
 ### 🌱 Interest
 - **Continual Learning**
